@@ -1,0 +1,3 @@
+[submodule "dasc_ros_nvblox"]
+	path = dasc_ros_nvblox
+	url = https://github.com/dasc-lab/dasc_ros_nvblox
