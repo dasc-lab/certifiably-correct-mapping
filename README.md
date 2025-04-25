@@ -11,6 +11,9 @@ This repository contains the code for the paper
 }
 ```
 
+The supplementary video is here: https://youtu.be/qMlDK7Iou48
+
+
 
 The paper presents two methods for certifiable mapping. The Safe Flight Corridors approach is in the folder `safe_flight_corridors` and is a Julia-based repository. The Certified ESDFs approach is in the submodule `dasc_ros_nvblox` which contains our fork of the `isaac_ros_nvblox` repository. The latter also contains our fork of `nvblox`. 
 
